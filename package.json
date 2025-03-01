@@ -1,6 +1,7 @@
 {
   "name": "tmp",
   "version": "1.0.0",
+  "type": "module",
   "description": "мой первый репозиторий js  Мой первый проект на хекслете",
   "main": "index.js",
   "scripts": {
@@ -15,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/Happer56/hexlet-js/issues"
   },
-  "homepage": "https://github.com/Happer56/hexlet-js#readme"
+  "homepage": "https://github.com/Happer56/hexlet-js#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {}
 }
