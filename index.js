@@ -1,4 +1,2 @@
-const fn = (a, b) => {
-  const c = a + b;
-  return c;
-};
+import last from "src/index.js.";
+
