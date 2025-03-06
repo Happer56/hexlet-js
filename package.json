@@ -18,7 +18,11 @@
   },
   "homepage": "https://github.com/Happer56/hexlet-js#readme",
   "dependencies": {
+    "hexo": "^7.3.0",
     "lodash": "^4.17.21"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "prettier": "^3.5.3"
+  }
 }
